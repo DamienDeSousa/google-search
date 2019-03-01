@@ -1,0 +1,6 @@
+services:
+  dades_googlesearch.google_search:
+    class: Dades\GoogleSearchBundle\Services\GoogleSearchService
+
+  dades_googlesearch.google_criteria:
+    class: Dades\GoogleSearchBundle\Services\GoogleCriteriaService
